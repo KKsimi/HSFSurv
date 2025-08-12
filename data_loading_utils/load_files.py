@@ -122,9 +122,9 @@ Get patient list
 Filtering condition:
 1. Have genomics information (cbioportal)
 2. Have WSI (TCGA)
-3. Have clinical information (TCGA)
+3. Have clinical information (cbioportal)
 
-Patient id : 'TCGA-F4-6461'
+Patients without genomic data or missing survival follow-up information were excluded.
 
 '''
 
